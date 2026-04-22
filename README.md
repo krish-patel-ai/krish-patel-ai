@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLM+%2B+RAG+Engineer;Voice+AI+%7C+Multilingual+Systems;Multimodal+AI+Builder;Open+to+Bangalore+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=LLM+%2B+RAG+Engineer;Voice+AI+%7C;Multimodal+AI+Builder;Open+to+Bangalore+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
