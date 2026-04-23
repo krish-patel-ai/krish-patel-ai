@@ -60,28 +60,6 @@ krish = {
 
 ---
 
-## 🧠 Currently Building
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  RAG Pipelines & Vector DBs          85%
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  Agentic AI (LangChain + LangGraph)  65%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  Multilingual Voice AI (Indic)       70%
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  Fine-tuning with LoRA / QLoRA       50%
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  MLOps & Deployment                  75%
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krish-patel-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-patel-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-patel-ai&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
