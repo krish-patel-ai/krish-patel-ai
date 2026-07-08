@@ -21,7 +21,7 @@
 krish = {
     "name"      : "Krish Patel",
     "role"      : "AI Engineer (Intern → Full-time)",
-    "location"  : "Ahmedabad → Bangalore 🎯",
+    "location"  : "Gandhinagar → Bangalore 🎯",
     "focus"     : ["LLMs", "RAG Pipelines", "Voice AI", "Multimodal Systems"],
     "currently" : "Building production-grade AI projects",
     "open_to"   : "Internships @ AI-first startups in Bangalore",
